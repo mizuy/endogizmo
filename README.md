@@ -1,4 +1,4 @@
-# EndoGizmo
+# EndoGIzmo
 
 消化管内視鏡のスコア計算と分類を、ブラウザで参照するためのツールです。  
 GI endoscopy scores and classifications in the browser.
