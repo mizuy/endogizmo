@@ -1,0 +1,26 @@
+{
+  "short_name": "EndoGizmo",
+  "name": "EndoGizmo",
+  "description": "Score calculation and endoscopic classification tools for GI endoscopy",
+  "lang": "en",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0D7377",
+  "background_color": "#F4F8F8",
+  "icons": [
+    {
+      "src": "logo192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "logo512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
