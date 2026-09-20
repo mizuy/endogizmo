@@ -1,6 +1,6 @@
 {
-  "short_name": "EndoGIzmo",
-  "name": "EndoGIzmo",
+  "short_name": "EndoGizmo",
+  "name": "EndoGizmo",
   "description": "Score calculation and endoscopic classification tools for GI endoscopy",
   "lang": "en",
   "start_url": "./",
